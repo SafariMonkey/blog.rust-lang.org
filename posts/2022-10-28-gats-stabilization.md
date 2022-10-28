@@ -30,7 +30,7 @@ All in all, even if *you* won't need to use GATs directly, it's very possible th
 
 ## When GATs go wrong - a few current bugs and limitations
 
-As alluded to before, this stabilization is not without its bugs and limitations. This is not atypical compared to prior large language features. We plan to fix these bugs and remove these limitations as part of ongoing efforts driven by the newly-formed types team. (Stayed tuned for more details in an official announcement soon!)
+As alluded to before, this stabilization is not without its bugs and limitations. This is not atypical compared to prior large language features. We plan to fix these bugs and remove these limitations as part of ongoing efforts driven by the newly-formed types team. (Stay tuned for more details in an official announcement soon!)
 
 Here, we'll go over just a couple of the limitations that we've identified that users might run into.
 
